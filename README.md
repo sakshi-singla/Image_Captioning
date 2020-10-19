@@ -1,5 +1,5 @@
 # Image Captioning with Microsoft COCO Dataset
-Students <br>
+Team <br>
 * Sakshi Singla <br>
 * Ivette Sulca <br>
 ### Abstract: 
